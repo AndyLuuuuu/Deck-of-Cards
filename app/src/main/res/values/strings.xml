@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Deck of Cards</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Suits -->
+    <string name="spade_suit">\u2660</string>
+    <string name="heart_suit">\u2665</string>
+    <string name="diamond_suit">\u2666</string>
+    <string name="club_suit">\u2663</string>
+</resources>
